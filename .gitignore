@@ -1,7 +1,7 @@
 packages/*
 postcodesorter/postcodesorter/bin/*
 postcodesorter/postcodesorter/obj/*
-postcodesorter/postcodesorterj.Droid/bin/*
+postcodesorter/postcodesorter.Droid/bin/*
 postcodesorter/postcodesorter.Droid/obj/*
 postcodesorter/postcodesorter.iOS/bin/*
 postcodesorter/postcodesorter.iOS/obj/*
