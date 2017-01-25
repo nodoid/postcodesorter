@@ -48,5 +48,9 @@
     </array>
     <key>UILaunchStoryboardName</key>
     <string>LaunchScreen</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Accessing the users location while they are interacting with your app</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Accesses the users location in the background</string>
   </dict>
 </plist>
